@@ -1,0 +1,17 @@
+{
+    "supported": [
+        "*"
+    ],
+    "unsupported": [],
+    "version": "1.0.0",
+    "name": "Chat Ding",
+    "overlays": [
+        "module.js"
+    ],
+    "required": [
+        {
+            "namespace": "chat_ding",
+            "id": "chat_ding"
+        }
+    ]
+}
